@@ -37,7 +37,8 @@ body {
   box-sizing: border-box; }
 
 img {
-  max-width: 100%; }
+	max-width: 310px;
+}
 
 a:focus,
 input:focus,
@@ -64,7 +65,7 @@ h6 {
 	font-family: "Poppins", sans-serif;
 	font-weight: 700;
 	color: #121212;
-	margin-top: 50px;
+	margin-top: 8px;
 	margin-right: 0px;
 	margin-left: 0px;
 	margin-bottom: 0px;
